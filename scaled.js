@@ -1,3 +1,5 @@
+//demo:
+https://jsbin.com/xurekuyaso/edit?html,js,output
 //data
 var dataset = [
     [5, 20],
